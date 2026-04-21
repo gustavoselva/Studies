@@ -1,1 +1,12 @@
-This is a note!
+Comandos do GIT:
+
+-- git init
+-- git add 
+-- git commit
+-- git push
+-- git pull
+-- git clone
+-- git rm
+-- git log
+-- git mv
+-- git status
