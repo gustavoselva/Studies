@@ -11,3 +11,4 @@ Comandos do GIT:
 -- git mv
 -- git status
 -- git checkout
+-- gitignore
