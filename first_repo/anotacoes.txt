@@ -10,3 +10,4 @@ Comandos do GIT:
 -- git log
 -- git mv
 -- git status
+-- git checkout
