@@ -12,3 +12,4 @@ Comandos do GIT:
 -- git status
 -- git checkout
 -- gitignore
+-- git reset
